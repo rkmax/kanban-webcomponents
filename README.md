@@ -1,5 +1,8 @@
 # Kanban App
 
+<img width="1155" height="524" alt="image" src="https://github.com/user-attachments/assets/1dc21d93-86e1-4b3f-8c08-ad50a4d86be1" />
+
+
 A tiny Kanban board built with native Web Components and TypeScript. Drag cards between columns, edit details, and your data stays in your browser (localStorage). UI available in English and Spanish.
 
 ## Quick Start
