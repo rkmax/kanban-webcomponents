@@ -1,0 +1,19 @@
+{
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "files.exclude": {
+        "src/**/*.js": true,
+        "tests/**/*.js": true
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "src/**/*.js": true,
+        "tests/**/*.js": true
+    }
+}
